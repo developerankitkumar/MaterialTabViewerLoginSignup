@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Material TabViewer Login Signup</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="signin">Sign In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+</resources>
